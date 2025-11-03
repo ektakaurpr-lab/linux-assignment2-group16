@@ -1,0 +1,18 @@
+Question 1:
+
+What are special path symbols ., .., and ~ used for in Linux?
+
+Answer:
+The . symbol refers to the current directory you are in.
+The .. symbol is used to move up one level to the parent directory.
+The ~ (tilde) symbol represents the user’s home directory.
+
+Question 2:
+
+Briefly describe the purpose of these directories: bin/, etc/, var/, and media/.
+
+Answer:
+The bin/ folder stores essential system programs and command binaries like ls or cp.
+The etc/ folder contains configuration files for the system and applications.
+The var/ folder holds variable data that changes often, such as logs and temporary files.
+The media/ folder is used for mounting removable media devices such as USB drives or CDs.
